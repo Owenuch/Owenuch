@@ -40,7 +40,7 @@
 - 🧩 **API Design:** RESTful APIs, modular services
 
 ---
-### 📌 Featured Projects
+### 📌 Projects
 
 - 🔧 **Restaurant Reservation System**
   - **Frontend:** Angular + Bootstrap
