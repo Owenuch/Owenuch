@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
@@ -32,9 +33,11 @@
 
 - 🔧 **Backend:** ASP.NET Core Web API, Java with Spring Boot
 - 🌐 **Frontend:** Angular & React
+- 🛢️ **Databases:**  
+  - **Relational:** SQL Server, PostgreSQL  
+  - **Non-relational:** MongoDB  
 - 🔐 **Security:** JWT Authentication, Role-based Access
-- 🛢️ **Databases:** SQL Server, PostgreSQL
-- 🌍 **RESTful APIs** for restaurant reservation systems, e-commerce modules, and more
+- 🧩 **API Design:** RESTful APIs, modular services
 
 ---
 
@@ -50,11 +53,10 @@
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Puedes agregar más enlaces como LinkedIn, email, etc. -->
+  <!-- Puedes agregar más enlaces como LinkedIn, email, portafolio, etc. -->
 </p>
 
 ---
 
 _Thanks for visiting my profile!_ ✨
-
 
