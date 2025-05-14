@@ -40,7 +40,17 @@
 - 🧩 **API Design:** RESTful APIs, modular services
 
 ---
+### 📌 Featured Projects
 
+- 🔧 **Restaurant Reservation System**
+  - **Frontend:** Angular + Bootstrap
+  - **Backend:** Spring Boot + PostgreSQL
+  - Role-based access, JWT security, and custom reservation logic
+
+- 📦 **Inventory Manager**
+  - **Backend:** ASP.NET Core Web API
+  - **Database:** SQL Server
+  - Includes CRUD operations, search filters, and stored procedures
 ### 📊 GitHub Stats
 
 | Most Used Languages | GitHub Stats |
